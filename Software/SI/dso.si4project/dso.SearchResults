@@ -1,0 +1,3 @@
+---- ADC1_DMA_ENABLE Matches (2 in 1 files) ----
+app_cfg.h (E:\YW687\DemoCode\DSO&WAVE\Software\config) line 19 : #ifndef ADC1_DMA_ENABLE
+app_cfg.h (E:\YW687\DemoCode\DSO&WAVE\Software\config) line 20 : 	#define ADC1_DMA_ENABLE				(1)
